@@ -1,7 +1,7 @@
 # 🔐 Secure Multi-Party Computation with FRESCO — SPDZ · TinyTables · Secret Sharing
 
 [![Java](https://img.shields.io/badge/Java_8-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://openjdk.org) [![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)](https://maven.apache.org) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com) [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com) [![FRESCO](https://img.shields.io/badge/FRESCO-MPC_Framework-1F3A6E?style=flat-square)](https://github.com/aicis/fresco)
-## 🗺️ Methodology
+
 > **Hands-on implementation of a two-party secure computation: two parties jointly compute a result while neither one ever sees the other's private input.**
 > Completed as a cryptography course project at **Stevens Institute of Technology**.
 
