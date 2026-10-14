@@ -74,7 +74,7 @@ No single share reveals anything about `s`. Only when the shares are combined ca
 
 ## ⚙️ Lab Setup & Commands
 
-> Full command notes live in [`methodology/setup-and-run.md`](methodology/setup-and-run.md). Summary below.
+> Full command notes live in [`setup-and-run.md`](setup-and-run.md). Summary below.
 
 **Build FRESCO from source**
 ```bash
